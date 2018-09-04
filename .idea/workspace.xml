@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37dd706f-0b80-43ea-a1ce-a5bf83dad575" name="Default" comment="欢迎大家关注我的博客，区块链全阶段完整教材代码视频即将上线，敬请期待！">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/01hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/02战狼小分队.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/03一百单八将.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/04大脸猫.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/05大脸猫.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/06计算器.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/07switch条件VSif条件.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/08永远的德国队.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1/day3/09人生巅峰.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/01流程控制.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/02函数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/03自定义类库.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/04猜数字游戏.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/05是否质数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/06选择排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/07服不服排行榜.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/08格式化打印.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/09递归.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/pkg/windows_amd64/game.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/pkg/windows_amd64/yourmath.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/pkg/windows_amd64/yourutils/yourmath.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/src/game/休闲游戏.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/src/game/金融游戏.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/src/yourutils/yourmath/basic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2/day1/src/yourutils/yourmath/别问我是谁.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/01昨日作业.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/02字符统计.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/03标准库strings包.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/04标准库os.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/05标准库math.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/成语大全/02成语APP.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/成语大全/04标准库bytes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/成语大全/idiom.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3/day1/成语大全/命令行工具.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/Client.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/Client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/Server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/Server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/logs/张全蛋.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/logs/西门东.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/01ChatRoomII/mytest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/02协程同步/01等待组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/02协程同步/02互斥锁1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/02协程同步/03互斥锁2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/02协程同步/04信号量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/03协程死锁/01多协程阻塞.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/03协程死锁/02单协程死锁.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/dup1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/dup2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/dup3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/echo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/echo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/echo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/fetch/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/fetchall/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/helloworld/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/lissajous/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/server1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/server2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch1/server3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch10/cross/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch10/jpeg/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/echo/echo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/echo/echo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/storage1/storage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/storage2/quota_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/storage2/storage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/word1/word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/word1/word_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/word2/word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch11/word2/word_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/display/display.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/display/display_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/format/format.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/format/format_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/methods/methods.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/methods/methods_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/params/params.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/search/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/sexpr/decode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/sexpr/encode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/sexpr/pretty.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch12/sexpr/sexpr_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip-print/bzip2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip-print/bzip2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip-print/bzip2_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip/bzip2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip/bzip2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzip/bzip2_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/bzipper/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/equal/equal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/equal/equal_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch13/unsafeptr/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/boiling/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/cf/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/echo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/ftoc/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/popcount/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/popcount/popcount_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/tempconv/conv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/tempconv/tempconv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/tempconv0/celsius.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch2/tempconv0/tempconv_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/basename1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/basename2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/comma/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/mandelbrot/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/netflag/netflag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/printints/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch3/surface/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/append/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/autoescape/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/charcount/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/dedup/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/embed/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/github/github.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/github/search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/graph/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/issues/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/issueshtml/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/issuesreport/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/movie/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/nonempty/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/rev/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/sha256/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/treesort/sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch4/treesort/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/defer1/defer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/defer2/defer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/fetch/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/findlinks1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/findlinks2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/findlinks3/findlinks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/links/links.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/outline/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/outline2/outline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/squares/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/sum/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/title1/title.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/title2/title.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/title3/title.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/toposort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/trace/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch5/wait/wait.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch6/coloredpoint/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch6/geometry/geometry.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch6/intset/intset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch6/intset/intset_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch6/urlvalues/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/bytecounter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/ast.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/check.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/coverage_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/eval.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/eval_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/parse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/eval/print.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/http1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/http2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/http3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/http3a/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/http4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/sleep/sleep.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/sorting/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/surface/surface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/tempconv/tempconv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/tempflag/tempflag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch7/xmlselect/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/cake/cake.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/cake/cake_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/chat/chat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/clock1/clock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/clock2/clock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/countdown1/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/countdown2/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/countdown3/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/crawl1/findlinks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/crawl2/findlinks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/crawl3/findlinks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/du1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/du2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/du3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/du4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/netcat1/netcat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/netcat2/netcat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/netcat3/netcat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/pipeline1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/pipeline2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/pipeline3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/reverb1/reverb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/reverb2/reverb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/spinner/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/thumbnail/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/thumbnail/thumbnail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch8/thumbnail/thumbnail_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank1/bank.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank1/bank_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank2/bank.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank2/bank_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank3/bank.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/bank3/bank_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo1/memo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo1/memo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo2/memo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo2/memo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo3/memo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo3/memo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo4/memo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo4/memo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo5/memo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memo5/memo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/04代码赏析/src/gopl.io/ch9/memotest/memotest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W4/day1/mytest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZUtils/pkg/windows_amd64/myutil.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZUtils/src/myutil/cacheutil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZUtils/src/myutil/cmdutil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZUtils/src/myutil/fileUtil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="846" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="W1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="W2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="W3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="W4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="ZUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\iWorkspace\GoPros\LearnGo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+    </configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2468017" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3926585" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="欢迎大家关注我的博客，区块链全阶段完整教材代码视频即将上线，敬请期待！" />
+    <option name="LAST_COMMIT_MESSAGE" value="欢迎大家关注我的博客，区块链全阶段完整教材代码视频即将上线，敬请期待！" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/W1/day3/04大脸猫.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
